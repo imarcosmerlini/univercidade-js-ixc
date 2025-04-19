@@ -1,1 +1,1 @@
-# universidade-da-sidade-js-ixc
+# univercidade-js-ixc
