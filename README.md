@@ -3,13 +3,13 @@
 https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 ## Hacker Rank Exercícios Introdução
-- [ ] Hello, World
-- [ ] Data Types
-- [ ] Arithmetic Operators
-- [ ] Functions
-- [ ] Let and Const
-- [ ] Conditional Statements: If-Else
-- [ ] Conditional Statements: Switch
+- [x] Hello, World
+- [x] Data Types
+- [x] Arithmetic Operators
+- [x] Functions
+- [x] Let and Const
+- [x] Conditional Statements: If-Else
+- [x] Conditional Statements: Switch
 - [ ] Loops
 - [ ] Arrays
 - [ ] Try, Catch, and Finally
@@ -24,5 +24,5 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 - [ ] Classes
 - [ ] Inheritance
 
-## Criar Tanque 
+## Criar Tanque
 - [ ] Entregar Classe com o seu tanque alterado
