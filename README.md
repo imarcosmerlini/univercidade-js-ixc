@@ -10,15 +10,15 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 - [x] Let and Const
 - [x] Conditional Statements: If-Else
 - [x] Conditional Statements: Switch
-- [ ] Loops
-- [ ] Arrays
-- [ ] Try, Catch, and Finally
-- [ ] Throw
-- [ ] Create a Rectangle Object
-- [ ] Count Objects
-- [ ] Arrow Functions
-- [ ] Javascript Dates
-- [ ] Template Literals
+- [x] Loops
+- [x] Arrays
+- [x] Try, Catch, and Finally
+- [x] Throw
+- [x] Create a Rectangle Object
+- [x] Count Objects
+- [x] Arrow Functions
+- [x] Javascript Dates
+- [x] Template Literals
 
 ## Hacker Rank (Classes e Herança)
 - [ ] Classes
