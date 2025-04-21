@@ -21,8 +21,8 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 - [x] Template Literals
 
 ## Hacker Rank (Classes e Herança)
-- [ ] Classes
-- [ ] Inheritance
+- [x] Classes
+- [x] Inheritance
 
 ## Criar Tanque
 - [ ] Entregar Classe com o seu tanque alterado
