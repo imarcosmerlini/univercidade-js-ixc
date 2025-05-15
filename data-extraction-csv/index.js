@@ -99,7 +99,7 @@ async function processFile() {
     }));
   }
 
-  console.log("\nPeríodo analisado");
+  console.log("\nPeríodo analisado:");
   console.table(objectToTableData(summary.dataPeriod, "Período", "Data"));
 
   console.log("\nAções por tabela:");
@@ -108,10 +108,10 @@ async function processFile() {
   console.log("\nAções por status:");
   console.table(objectToTableData(summary.statusCount, "Status"));
 
-  console.log("\nBackup");
+  console.log("\nBackup:");
   console.table(objectToTableData(summary.backupStats, "Backup"));
 
-  console.log("\nTempo de execução");
+  console.log("\nTempo de execução:");
   console.table(
     objectToTableData(summary.executionTimeStats, "Métrica", "Segundos"),
   );
